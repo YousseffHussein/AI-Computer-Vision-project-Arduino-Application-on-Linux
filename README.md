@@ -1,2 +1,5 @@
 The project Demo :
-https://github.com/user-attachments/assets/5d390bf5-37ef-490f-ae25-cf8d6a21073e
+
+
+
+https://github.com/YousseffHussein/AI-Computer-Vision-project-Arduino-Application-on-Linux/issues/1#issue-3182974626
