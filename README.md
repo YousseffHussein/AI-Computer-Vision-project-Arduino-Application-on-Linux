@@ -1,13 +1,5 @@
 # AI Computer Vision project Arduino Application on Linux
 
-The project Demo :
-
-https://github.com/user-attachments/assets/5d390bf5-37ef-490f-ae25-cf8d6a21073e
-
-
-
-
-
 
 
 # 🍎🍌 Fruit Classification Using AI Models
@@ -48,5 +40,15 @@ The objective was to evaluate and compare the performance of these models in ide
 - **ANN** was less effective due to its limitations in spatial feature extraction.
 
 ---
+
+
+
+
+The project Demo :
+
+https://github.com/user-attachments/assets/5d390bf5-37ef-490f-ae25-cf8d6a21073e
+
+
+
 
 
